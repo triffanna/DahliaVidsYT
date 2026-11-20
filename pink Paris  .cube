@@ -1,0 +1,217 @@
+{
+  "audioEffectsArray": [],
+  "streamAttributes": {},
+  "videoEffectsArray": [
+    {
+      "displayName": "Original ✼",
+      "effectID": "x-coredata://BEDE1887-A133-46A7-937A-3F9399691235/SpryEffect/p-1053920493",
+      "effectName": "BuiltInColorControls",
+      "enabled": true,
+      "parmValues": {
+        "CIColorMatrix-inputBVector": {
+          "conversionType": 9,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.82
+          }
+        },
+        "CIColorControls-inputBrightness": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.08
+          }
+        },
+        "CIColorControls-inputContrast": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.1
+          }
+        },
+        "CIGammaAdjust-inputPower": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.07
+          }
+        },
+        "CIColorMatrix-inputGVector": {
+          "conversionType": 8,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.14
+          }
+        },
+        "CIHighlightShadowAdjust-inputHighlightAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.0
+          }
+        },
+        "CIHueAdjust-inputAngle": {
+          "conversionType": 5,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        },
+        "CIToneCurve-specialVector": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 6,
+            "value": "[0.0 0.25 0.5 0.75 1.0]"
+          },
+          "keyframes": [],
+          "value": {
+            "type": 6,
+            "value": "[0.0 0.35389745 0.5 0.64610255 1.0]"
+          }
+        },
+        "CIColorMatrix-inputRVector": {
+          "conversionType": 7,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.08
+          }
+        },
+        "CIColorControls-inputSaturation": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.04
+          }
+        },
+        "CIHighlightShadowAdjust-inputShadowAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        },
+        "CIHighlightShadowAdjust-inputRadius": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        },
+        "CIWhitePointAdjust-inputColor": {
+          "conversionType": 6,
+          "identityValue": {
+            "type": 7,
+            "value": "1.0 1.0 1.0 1.0"
+          },
+          "keyframes": [],
+          "value": {
+            "type": 7,
+            "value": "1.0 1.0 1.0 1.0"
+          }
+        },
+        "CIVibrance-inputAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.2
+          }
+        }
+      }
+    },
+    {
+      "displayName": "2Stripy Soft ✼",
+      "effectID": "x-coredata://BEDE1887-A133-46A7-937A-3F9399691235/SpryEffect/p-408782632",
+      "effectName": "CIColorCube",
+      "enabled": true,
+      "parmValues": {
+        "epBlendWithOriginal": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.19
+          }
+        },
+        "lutData": {
+          "conversionType": 10,
+          "identityValue": {
+            "type": 2,
+            "value": 0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 10,
+            "value": {
+              "lutName": "2Stripy Soft",
+              "lutSize": 16
+            }
+          }
+        }
+      }
+    }
+  ]
+}

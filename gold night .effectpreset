@@ -1,0 +1,249 @@
+{
+  "audioEffectsArray": [],
+  "streamAttributes": {},
+  "videoEffectsArray": [
+    {
+      "displayName": "Polaroid ✼",
+      "effectID": "x-coredata://918E7CBC-B7E1-4F86-86E1-7B70FC29D70A/SpryEffect/p886671647",
+      "effectName": "BuiltInColorControls",
+      "enabled": true,
+      "parmValues": {
+        "CIColorMatrix-inputBVector": {
+          "conversionType": 9,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.09
+          }
+        },
+        "CIColorControls-inputBrightness": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": -0.03
+          }
+        },
+        "CIColorControls-inputContrast": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.94
+          }
+        },
+        "CIGammaAdjust-inputPower": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.41
+          }
+        },
+        "CIColorMatrix-inputGVector": {
+          "conversionType": 8,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.98
+          }
+        },
+        "CIHighlightShadowAdjust-inputHighlightAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 1.0
+          }
+        },
+        "CIHueAdjust-inputAngle": {
+          "conversionType": 5,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": -0.316
+          }
+        },
+        "CIToneCurve-specialVector": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 6,
+            "value": "[0.0 0.25 0.5 0.75 1.0]"
+          },
+          "keyframes": [],
+          "value": {
+            "type": 6,
+            "value": "[0.0 0.22664747 0.45329493 0.72664756 1.0]"
+          }
+        },
+        "CIColorMatrix-inputRVector": {
+          "conversionType": 7,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.99
+          }
+        },
+        "CIColorControls-inputSaturation": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 1.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.77
+          }
+        },
+        "CIHighlightShadowAdjust-inputShadowAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        },
+        "CIHighlightShadowAdjust-inputRadius": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        },
+        "CIWhitePointAdjust-inputColor": {
+          "conversionType": 6,
+          "identityValue": {
+            "type": 7,
+            "value": "1.0 1.0 1.0 1.0"
+          },
+          "keyframes": [],
+          "value": {
+            "type": 7,
+            "value": "0.9882353 0.91764706 0.7176471 1.0"
+          }
+        },
+        "CIVibrance-inputAmount": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.0
+          }
+        }
+      }
+    },
+    {
+      "displayName": "Trendy Film ✼",
+      "effectID": "x-coredata://918E7CBC-B7E1-4F86-86E1-7B70FC29D70A/SpryEffect/p1542215114",
+      "effectName": "CIColorCube",
+      "enabled": true,
+      "parmValues": {
+        "epBlendWithOriginal": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.65
+          }
+        },
+        "lutData": {
+          "conversionType": 10,
+          "identityValue": {
+            "type": 2,
+            "value": 0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 10,
+            "value": {
+              "lutName": "Trendy Film",
+              "lutSize": 16
+            }
+          }
+        }
+      }
+    },
+    {
+      "displayName": "Unsharp 1",
+      "effectID": "x-coredata://918E7CBC-B7E1-4F86-86E1-7B70FC29D70A/SpryEffect/p248812518",
+      "effectName": "CIUnsharpMask",
+      "enabled": true,
+      "parmValues": {
+        "inputIntensity": {
+          "conversionType": 0,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 0.15
+          }
+        },
+        "inputRadius": {
+          "conversionType": 1,
+          "identityValue": {
+            "type": 2,
+            "value": 0.0
+          },
+          "keyframes": [],
+          "value": {
+            "type": 2,
+            "value": 50.0
+          }
+        }
+      }
+    }
+  ]
+}
